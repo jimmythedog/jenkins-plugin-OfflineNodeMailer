@@ -1,6 +1,7 @@
 # jenkins-plugin-OfflineNodeMailer
 
 A jenkins plugin to send reminder emails to users that have taken nodes offline
+**NOT COMPLETE!** **NOT COMPLETE!** **NOT COMPLETE!** **NOT COMPLETE!** **NOT COMPLETE!** **NOT COMPLETE!** **NOT COMPLETE!** 
 
 ## Development
 Note: You must have maven setup correctly - see the [Jenkins Plugin tutorial](https://wiki.jenkins-ci.org/display/JENKINS/Plugin+tutorial) for more information
